@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#mybtn{
+    font-size: 3em;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 20px;
+}
+#mybtn:hover{
+    color: rgb(132, 80, 17);
+}
+#mylabel{
+    font-size: 3em;
+}
